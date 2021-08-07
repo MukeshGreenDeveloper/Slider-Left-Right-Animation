@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="auto_start" format="boolean"></attr>
+    <attr name="duration" format="integer"></attr>
+</resources>
